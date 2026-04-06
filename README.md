@@ -4,19 +4,6 @@ This module provides tools to extract data from multiple REDCap study databases 
 
 ---
 
-## 📖 Overview
-
-The core `Study` class connects to REDCap via API and retrieves structured data, including:
-
-- 👤 Participant IDs  
-- 📅 Visit dates  
-- 🧠 MRI, PET, and blood sessions  
-- 🧪 Study-specific test data  
-
-It supports multiple study formats (e.g., **PIPPIN** and **IMPRINT**) with built-in adjustments for differing REDCap schemas.
-
----
-
 ## ✨ Key Features
 
 - 🔄 Standardised data extraction across studies  

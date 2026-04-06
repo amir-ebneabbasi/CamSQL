@@ -14,7 +14,7 @@ The core `Study` class connects to REDCap via API and retrieves structured data,
 - 🧠 MRI, PET, and blood sessions  
 - 🧪 Study-specific test data  
 
-It supports multiple study formats (e.g., **CHARMED**, **PIPPIN**, **IMPRINT**) with built-in adjustments for differing REDCap schemas.
+It supports multiple study formats (e.g., **PIPPIN** and **IMPRINT**) with built-in adjustments for differing REDCap schemas.
 
 ---
 

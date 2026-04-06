@@ -1,7 +1,6 @@
 # 🧩 REDCap to SQL Utility
 
-This module provides tools to extract data from multiple REDCap study databases and prepare it for integration into an SQL database.  
-The work was originally started by **Timothy Rittman** (tr332@medschl.cam.ac.uk) and maintained by me between **2022–2024**.
+This module provides tools to extract data from multiple REDCap study databases and prepare it for integration into an SQL database. The work was originally started by **Timothy Rittman** (tr332@medschl.cam.ac.uk) and maintained by me between **2022–2024**.
 
 ---
 

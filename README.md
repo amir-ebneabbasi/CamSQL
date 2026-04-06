@@ -1,10 +1,10 @@
-# 🧩 REDCap to SQL Utility
+# REDCap to SQL Utility
 
 This module provides tools to extract data from multiple REDCap study databases and prepare it for integration into an SQL database. The work was originally started by **Timothy Rittman** (tr332@medschl.cam.ac.uk) and maintained by me between **2022–2024**.
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - 🔄 Standardised data extraction across studies  
 - 🧩 Handling of study-specific field and event differences  
@@ -15,7 +15,7 @@ This module provides tools to extract data from multiple REDCap study databases 
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 - **Python packages**:
   - `redcaptosql` – core module for REDCap extraction
